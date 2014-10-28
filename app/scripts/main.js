@@ -33,3 +33,6 @@ songs: [
 
 var rendered= Handlebars.templates['music'];
 $('.music').append(rendered(music2));
+
+
+
